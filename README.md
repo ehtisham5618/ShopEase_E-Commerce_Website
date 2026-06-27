@@ -1,7 +1,5 @@
 # ShopEase — E-Commerce Website
 
-> **Capstone Project | Web Development Internship @ Qwetrum Technologies**
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://shop-ease-e-commerce-website-inky.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ehtisham5618/ShopEase_E-Commerce_Website)
 
@@ -189,7 +187,6 @@ To deploy your own instance:
 
 **Ehtisham Abid**
 - GitHub: [@ehtisham5618](https://github.com/ehtisham5618)
-- Internship: Web Development Intern @ **Qwetrum Technologies**
 
 ---
 
@@ -198,5 +195,3 @@ To deploy your own instance:
 This project was created as a capstone internship project. All rights reserved.
 
 ---
-
-<p align="center">Built with ❤️ during the Qwetrum Technologies Web Development Internship</p>
