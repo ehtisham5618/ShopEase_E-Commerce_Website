@@ -189,9 +189,3 @@ To deploy your own instance:
 - GitHub: [@ehtisham5618](https://github.com/ehtisham5618)
 
 ---
-
-## 📄 License
-
-This project was created as a capstone internship project. All rights reserved.
-
----
